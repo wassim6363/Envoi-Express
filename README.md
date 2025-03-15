@@ -8,19 +8,16 @@
     <meta name="keywords" content="déménagement, Maroc, transport, emballage, manutention, déménagement international, MarocMoveTrans, Casablanca, Rabat, Tanger">
     <meta name="author" content="Envoi Express">
     <meta name="robots" content="index, follow">
-    
     <!-- Open Graph Meta Tags for Social Media -->
     <meta property="og:title" content="Envoi Express - Services de Déménagement Professionnel">
     <meta property="og:description" content="Services de déménagement fiables et professionnels au Maroc et à l'international. Devis gratuit pour votre prochain déménagement.">
     <meta property="og:image" content="https://www.envoi-express.com/images/logo.png"> <!-- Add your logo URL -->
     <meta property="og:url" content="https://www.envoi-express.com"> <!-- Add your website URL -->
-    
     <!-- Canonical Link for SEO -->
     <link rel="canonical" href="https://www.envoi-express.com"> <!-- Your homepage URL -->
     <title>Envoi Express - Services de Déménagement Professionnel au Maroc | Déménagement International</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    
     <!-- Custom CSS -->
     <style>
         .body {
@@ -28,8 +25,7 @@
     margin: 0;
     padding: 0;
 }
-
-.navbar {
+    .navbar {
     background: #ffffff;
     height: 60px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
